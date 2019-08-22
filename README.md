@@ -1,1 +1,1 @@
-# AAU-Training-2019
+# Interactive Biostatistics Workshop: R Programming Pre-Course Assignment
