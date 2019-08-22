@@ -25,10 +25,12 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic 2: Writing scripts of code in R
 - **Description:** Writing Scripts in R for Reproducible Research: What is a Script in R and how to write them	
+- **Video:** https://youtu.be/qqz_D1vzS5M
 - **Exercise #2:** Writing scripts of code
 
 ### Topic 3: Set your working directory
 - **Description:** Setting up a Working Directory in R: How to Set up Working Directories in R Using RStudio Menus and Functions in R	
+- **Video:** https://youtu.be/OJ4WBjV5o1I
 - **Exercise #3:** Setting your working directory
 
 ### Topic 4: Getting started with RStudio
