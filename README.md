@@ -35,40 +35,47 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic 4: Getting started with RStudio
 - **Description:** Getting started with R: Basic Arithmetic and Coding in R; How to turn R into a fancy calculator	
+- **Video:** https://youtu.be/UYclmg1_KLk
 - **Exercise #4:** Using R as a calculator
 
 ***NOTE: Topics #5-7 are incorporated into one exercise***
 
 ### Topic 5:	Importing data from Excel to R, CSV and TXT files 
 - **Description:** Import Data, Copy Data from Excel (or other spreadsheets) to R: CSV & TXT Files with Free Practice Dataset
+- **Video:**
 - **Exercise #5:** Importing data into R
 
 ### Topic 6: Importing, checking, and Part 1 of working with data in R
 - **Description:** Importing Data, Checking the Imported Data and Working with Data in R	
+- **Video:**
 - **Exercise #6:** Importing, checking, and working with data in R
 
 ### Topic 7: Working with data, Part 2
 - **Description:** Working with Variables and Data in R and Produce Summaries: How to check variable names and types, extract a variable from a dataset, and produce summaries for in R	
+- **Video:**
 - **Exercise #7:** Working with data
 
 ### Topic 8: Installing packages in R
-- Description: How to Install Packages in R: How to Find and Install Packages for R with R Functions or RStudio Menus
-- Exercise #8: Installing R packages
+- **Description:** How to Install Packages in R: How to Find and Install Packages for R with R Functions or RStudio Menus
+- **Video:**
+- **Exercise #8:** Installing R packages
 
 ### Topic 9: Histograms in R 
-- Description: Histograms in R: How to Create and Modify Histograms with R	
-- Exercise #9: Histogram in R
+- **Description:** Histograms in R: How to Create and Modify Histograms with R	
+- **Video:**
+- **Exercise #9:** Histogram in R
 
 ### Topic 10: Numerical summaries   
-- Description: Calculating Mean, Standard Deviation, Frequencies in R (Descriptive Statistics in R): How to produce numeric summaries for both categorical and numerical variables in R
-- Exercise #10: Numerical and graphical summaries
+- **Description:** Calculating Mean, Standard Deviation, Frequencies in R (Descriptive Statistics in R): How to produce numeric summaries for both categorical and numerical variables in R
+- **Video:**
+- **Exercise #10:** Numerical and graphical summaries
 
 ---------------------------------------------------------------------------------
 
 ## Biostatistics Primer
 
 ### Topic: Normal Distribution and Empirical Rule
-- Description: What is a “normal” distribution, assumptions with normally distributed data	
+- **Description:** What is a “normal” distribution, assumptions with normally distributed data	
 
 ### Topic: Central Limit Theorem
-- Description: Properties of a sample mean	
+- **Description:** Properties of a sample mean	
