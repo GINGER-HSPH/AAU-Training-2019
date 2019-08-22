@@ -65,8 +65,8 @@ By the end of this self-directed pre-course participants should:
 
 ## Biostatistics Primer
 
-## Topic: Normal Distribution and Empirical Rule
+### Topic: Normal Distribution and Empirical Rule
 - Description: What is a “normal” distribution, assumptions with normally distributed data	
 
-## Topic: Central Limit Theorem
+### Topic: Central Limit Theorem
 - Description: Properties of a sample mean	
