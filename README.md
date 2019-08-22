@@ -20,7 +20,7 @@ By the end of this self-directed pre-course participants should:
 ## Intro to R Programming
 
 ### Topic 1: How to download R and RStudio
-- Description: Download and Install R and RStudio: How to Download R, Install R, Download RStudio and Install R Studio Step by Step for Beginners	
+- Description: [Download and Install R and RStudio: How to Download R, Install R, Download RStudio and Install R Studio Step by Step for Beginners] (https://youtu.be/cX532N_XLIs)	
 - Exercise 1: Setting up R
 
 ### Topic 2: Writing scripts of code in R
