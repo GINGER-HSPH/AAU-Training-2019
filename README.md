@@ -10,7 +10,7 @@ By the end of this self-directed pre-course participants should:
 -	Be able to produce summary statistics and simple figures
 
 ###### Instructions:
--	**Each topic links to an instructional video on YouTube. Watch each video** (they are short at ~5 mins each) and follow along. You can enable closed captions at the bottom of the video, if you would like.
+-	**Each topic links to an instructional video on YouTube. Click on each topic header and watch each video** (they are short at ~5 mins each) and follow along. You can enable closed captions at the bottom of the video, if you would like.
 -	**Complete** the corresponding exercise. Be sure to save and annotate your R program!
 - **Download** the Rosmap dataset and corresponding files. This is the dataset that we will be using throughout the primer.
 -	**Follow the topics in order**, as they build on each other.
