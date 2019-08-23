@@ -36,7 +36,7 @@ By the end of this self-directed pre-course participants should:
 - **Description:** Getting started with R: Basic Arithmetic and Coding in R; How to turn R into a fancy calculator	
 - **Exercise #4:** Using R as a calculator
 
-## ***NOTE: Topics #5-7 are incorporated into one exercise***
+#### ***NOTE: Topics #5-7 are incorporated into one exercise***
 
 ### [Topic 5: Importing data from Excel to R, CSV and TXT files](https://youtu.be/qPk0YEKhqB8)
 - **Description:** Import Data, Copy Data from Excel (or other spreadsheets) to R: CSV & TXT Files with Free Practice Dataset
