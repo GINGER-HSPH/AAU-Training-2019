@@ -20,28 +20,23 @@ By the end of this self-directed pre-course participants should:
 
 ## Intro to R Programming
 
-
 ### [Topic #1: How to download R and RStudio](https://youtu.be/cX532N_XLIs)
 - **Description:** Download and Install R and RStudio: How to Download R, Install R, Download RStudio and Install R Studio Step by Step for Beginners
 - **Exercise 1: Setting up R**
-
 
 ### [Topic 2: Writing scripts of code in R](https://youtu.be/qqz_D1vzS5M)
 - **Description:** Writing Scripts in R for Reproducible Research: What is a Script in R and how to write them	
 - **Exercise #2:** Writing scripts of code
 
-
 ### [Topic 3: Set your working directory](https://youtu.be/OJ4WBjV5o1I)
 - **Description:** Setting up a Working Directory in R: How to Set up Working Directories in R Using RStudio Menus and Functions in R	
 - **Exercise #3:** Setting your working directory
-
 
 ### [Topic 4: Getting started with RStudio](https://youtu.be/UYclmg1_KLk)
 - **Description:** Getting started with R: Basic Arithmetic and Coding in R; How to turn R into a fancy calculator	
 - **Exercise #4:** Using R as a calculator
 
-
-***NOTE: Topics #5-7 are incorporated into one exercise***
+## ***NOTE: Topics #5-7 are incorporated into one exercise***
 
 ### [Topic 5: Importing data from Excel to R, CSV and TXT files](https://youtu.be/qPk0YEKhqB8)
 - **Description:** Import Data, Copy Data from Excel (or other spreadsheets) to R: CSV & TXT Files with Free Practice Dataset
@@ -55,16 +50,13 @@ By the end of this self-directed pre-course participants should:
 - **Description:** Working with Variables and Data in R and Produce Summaries: How to check variable names and types, extract a variable from a dataset, and produce summaries for in R	
 - **Exercise #7:** Working with data
 
-
 ### [Topic 8: Installing packages in R](https://youtu.be/3RWb5U3X-T8)
 - **Description:** How to Install Packages in R: How to Find and Install Packages for R with R Functions or RStudio Menus
 - **Exercise #8:** Installing R packages
 
-
 ### [Topic 9: Histograms in R](https://youtu.be/Hj1pgap4UOY)
 - **Description:** Histograms in R: How to Create and Modify Histograms with R	
 - **Exercise #9:** Histogram in R
-
 
 ### [Topic 10: Numerical summaries](https://youtu.be/ACWuV16tdhY) 
 - **Description:** Calculating Mean, Standard Deviation, Frequencies in R (Descriptive Statistics in R): How to produce numeric summaries for both categorical and numerical variables in R
