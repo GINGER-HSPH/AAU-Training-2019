@@ -14,7 +14,7 @@ By the end of this self-directed pre-course participants should:
 -	**Complete** the corresponding exercise. Be sure to save and annotate your R program!
 - **Download** the Rosmap dataset and corresponding files. This is the dataset that we will be using throughout the primer.
 -	**Follow the topics in order**, as they build on each other.
--	**Upload** your final R program with answers to all the exercises **in a single document** (not multiple programs).  
+-	**Upload and submit** your final R program with answers to all the exercises **in a single document** (not multiple programs). ### Submit your final program here - CW to add in link to google forms page
 
 ----------------------------------------------------------------------------------------------------------------------------
 
