@@ -1,21 +1,7 @@
+# Welcome to the homepage for the 
 # Interactive Biostatistics Workshop: Intro to R Programming & Biostatistics Primer
 
-###Overview: 
-In order to make the most out of our time together in November, we are asking participants to complete a pre-course to familiarize themselves with R programming language, the RStudio environment and basic biostatistical concepts.  
-
-### Course Objectives: 	
-By the end of this self-directed pre-course participants should: 
--	Be familiar with the RStudio environment
--	Be able to read in data and interact with it
--	Be able to produce summary statistics and simple figures
-
-### Instructions:
--	**Each topic corresponds to an instructional video on YouTube. Click on each link provided and watch each video** (they are short at ~5 mins each) and follow along. You can enable closed captions at the bottom of the video, if you would like.
--	**Complete** the corresponding exercise. Be sure to save and annotate your R program!
-- **Download** the Rosmap dataset and corresponding files. This is the dataset that we will be using throughout the primer.
--	**Follow the topics in order**, as they build on each other.
--	**Upload and submit** your final R program with answers to all the exercises **in a single document** (not multiple programs). ### Submit your final program here - CW to add in link to google forms page
-
+INSERT HERE ABOUT THE PROGRAM
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## Intro to R Programming
