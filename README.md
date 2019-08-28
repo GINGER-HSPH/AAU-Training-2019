@@ -11,7 +11,7 @@ INSERT HERE INFORMATION ABOUT THE PROGRAM & GINGER
 
 #  
 #    
-### - Click here to access the pre-course primer
+### - [Click here to access the pre-course primer] (coursematerials.md)
 #   
 #   
 #    
