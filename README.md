@@ -9,7 +9,7 @@ INSERT HERE INFORMATION ABOUT THE PROGRAM & GINGER
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-### - Click here to access the pre-course primer
+### - [Click here to access the pre-course primer](https://github.com/GINGER-HSPH/AAU-Training-2019/blob/master/coursematerials.md) 
 
 ### - Click here to access the course materials
 
