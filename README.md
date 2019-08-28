@@ -13,5 +13,5 @@ INSERT HERE INFORMATION ABOUT THE PROGRAM & GINGER
 
 ### - [Click here to access the course materials](https://github.com/GINGER-HSPH/AAU-Training-2019/blob/master/coursematerials.md)
 
-### - Click here to access the course datasets
+### - [Click here to access the course datasets](https://github.com/GINGER-HSPH/AAU-Training-2019/blob/master/datasets.md)
 
