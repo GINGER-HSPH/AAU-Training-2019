@@ -1,7 +1,4 @@
-Interactive Biostatistics Workshop: Intro to R Programming & Biostatistics Primer
-=================================================================================
-
-### Course Materials:
+# Course Materials - Interactive Biostatistics Workshop
 
 
 ### Day 1 - Monday, November 18
@@ -10,13 +7,21 @@ Interactive Biostatistics Workshop: Intro to R Programming & Biostatistics Prime
 - **Solutions:** 
 
 ### Day 2 - Tuesday, November 19
-
+- **Slides:**
+- **Exercises:**
+- **Solutions:** 
 
 ### Day 3 - Wednesday, November 20
-
+- **Slides:**
+- **Exercises:**
+- **Solutions:** 
 
 ### Day 4 - Thursday, November 21
-
+- **Slides:**
+- **Exercises:**
+- **Solutions:** 
 
 ### Day 5 - Friday, November 22
-
+- **Slides:**
+- **Exercises:**
+- **Solutions:** 
