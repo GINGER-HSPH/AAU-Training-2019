@@ -1,5 +1,6 @@
 # Course Materials - Interactive Biostatistics Workshop
 
+This is a test to see if it worked!
 
 ### Day 1 - Monday, November 18
 - **Slides:**
