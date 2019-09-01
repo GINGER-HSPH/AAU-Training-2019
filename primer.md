@@ -27,7 +27,7 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic 2: Writing scripts of code in R
 - **Description:** Writing Scripts in R for Reproducible Research: What is a Script in R and how to write them	
-- **Video:** https://youtu.be/qqz_D1vzS5M{:target="_blank"}
+- **Video:** https://youtu.be/qqz_D1vzS5M {:target="_blank"}
 - **Exercise #2:** Writing scripts of code
 
 ### Topic 3: Set your working directory
