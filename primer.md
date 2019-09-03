@@ -37,7 +37,7 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic 4: Getting started with RStudio
 - **Description:** Getting started with R: Basic Arithmetic and Coding in R; How to turn R into a fancy calculator
-- **Video:** https://youtu.be/UYclmg1_KLk
+- **Video:** [Click here to access the video](https://youtu.be/UYclmg1_KLk){:target="_blank"} 
 - **Exercise #4:** Using R as a calculator
 
 #### ***NOTE: Topics #5-7 are incorporated into one exercise***
