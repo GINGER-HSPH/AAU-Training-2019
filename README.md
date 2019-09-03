@@ -7,6 +7,7 @@ November 18-22, 2019
 
 INSERT HERE INFORMATION ABOUT THE PROGRAM & GINGER
 
+
 Below you will find links to the following:
 
 - Biostatistics and R Programming Primer (to be completed BY DATE)
@@ -24,4 +25,5 @@ Below you will find links to the following:
 ### - [Click here to access the course datasets](https://ginger-hsph.github.io/AAU-Training-2019/datasets){:target="_blank"}
 
 
-#### **Please note that some of the pages are currently blank as materials will be updated as the course progresses.
+
+#### **Please note that some of the pages and sections may be blank as materials will be updated as the course progresses.
