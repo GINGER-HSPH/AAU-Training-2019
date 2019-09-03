@@ -1,8 +1,9 @@
-# Welcome to the homepage for the Interactive Biostatistics Workshop
+# Welcome to the Homepage for the Interactive Biostatistics Workshop
 
+
+Addis Ababa University
 Addis Ababa, Ethiopia
-
-November 18-22, 2019
+18-22 November 2019
 
 
 INSERT HERE INFORMATION ABOUT THE PROGRAM & GINGER
