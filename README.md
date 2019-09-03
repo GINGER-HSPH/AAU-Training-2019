@@ -17,7 +17,7 @@ These materials will be updated as the course progresses.
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-### - [Click here to access the pre-course primer](https://ginger-hsph.github.io/AAU-Training-2019/primer){:target="_blank"} 
+### - [Click here to access the pre-course primer](https://ginger-hsph.github.io/AAU-Training-2019/primer){:target="_blank"}
 
 ### - [Click here to access the course materials](https://ginger-hsph.github.io/AAU-Training-2019/coursematerials){:target="_blank"}
 
