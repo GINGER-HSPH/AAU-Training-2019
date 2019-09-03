@@ -22,12 +22,12 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic #1: How to download R and RStudio
 - **Description:** Download and Install R and RStudio: How to Download R, Install R, Download RStudio and Install R Studio Step by Step for Beginners
-- **Video:** [Download and Install R and RStudio | R Tutorial 1.2](https://youtu.be/cX532N_XLIs){:target="_blank"}
+- **Video:** https://youtu.be/cX532N_XLIs
 - **Exercise #1: Setting up R**
 
 ### Topic 2: Writing scripts of code in R
 - **Description:** Writing Scripts in R for Reproducible Research: What is a Script in R and how to write them	
-- **Video:** https://youtu.be/qqz_D1vzS5M {:target="_blank"}
+- **Video:** https://youtu.be/qqz_D1vzS5M
 - **Exercise #2:** Writing scripts of code
 
 ### Topic 3: Set your working directory
@@ -37,7 +37,7 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic 4: Getting started with RStudio
 - **Description:** Getting started with R: Basic Arithmetic and Coding in R; How to turn R into a fancy calculator
-- **Video:** [Click here to access the video](https://youtu.be/UYclmg1_KLk){:target="_blank"} 
+- **Video:** https://youtu.be/UYclmg1_KLk 
 - **Exercise #4:** Using R as a calculator
 
 #### ***NOTE: Topics #5-7 are incorporated into one exercise***
