@@ -13,6 +13,7 @@ Below you will find links to the following:
 - Course materials, which includes slides and exercises, as well as solutions to the exercises and R scripts which will be uploaded either daily or the end of the course
 - Course datasets and data dictionaries
 
+
 ## These materials will be updated as the course progresses.
 ----------------------------------------------------------------------------------------------------------------------------
 
