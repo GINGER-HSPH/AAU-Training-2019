@@ -14,7 +14,6 @@ Below you will find links to the following:
 - Course datasets and data dictionaries
 
 
-## These materials will be updated as the course progresses.
 ----------------------------------------------------------------------------------------------------------------------------
 
 
@@ -24,3 +23,5 @@ Below you will find links to the following:
 
 ### - [Click here to access the course datasets](https://ginger-hsph.github.io/AAU-Training-2019/datasets){:target="_blank"}
 
+
+#### **Please note that some of the pages are currently blank as materials will be updated as the course progresses.
