@@ -23,7 +23,7 @@ By the end of this self-directed pre-course participants should:
 ### Topic #1: How to download R and RStudio
 - **Description:** Download and Install R and RStudio: How to Download R, Install R, Download RStudio and Install R Studio Step by Step for Beginners
 - **Video:** [https://youtu.be/cX532N_XLIs](https://youtu.be/cX532N_XLIs)
-- **Exercise #1:** exercises/Exercise 1_AAU primer 2019.pdf
+- **Exercise #1:** [Downloading R](ns/AAU-Training-2019/exercises/Exercise 1_AAU primer 2019.pdf)
 
 ### Topic 2: Writing scripts of code in R
 - **Description:** Writing Scripts in R for Reproducible Research: What is a Script in R and how to write them	
