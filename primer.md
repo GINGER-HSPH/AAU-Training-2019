@@ -22,7 +22,7 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic #1: How to download R and RStudio
 - **Description:** Download and Install R and RStudio: How to Download R, Install R, Download RStudio and Install R Studio Step by Step for Beginners
-- **Video:** https://youtu.be/cX532N_XLIs
+- **Video:** [https://youtu.be/cX532N_XLIs](https://youtu.be/cX532N_XLIs)
 - **Exercise #1: Setting up R**
 
 ### Topic 2: Writing scripts of code in R
@@ -32,7 +32,7 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic 3: Set your working directory
 - **Description:** Setting up a Working Directory in R: How to Set up Working Directories in R Using RStudio Menus and Functions in R	
-- **Video:** https://youtu.be/OJ4WBjV5o1I
+- **Video:** [https://youtu.be/OJ4WBjV5o1I](https://youtu.be/OJ4WBjV5o1I)
 - **Exercise #3:** Setting your working directory
 
 ### Topic 4: Getting started with RStudio
