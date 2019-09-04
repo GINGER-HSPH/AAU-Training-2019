@@ -70,7 +70,7 @@ By the end of this self-directed pre-course participants should:
 ### Topic 10: Numerical summaries
 - **Description:** Calculating Mean, Standard Deviation, Frequencies in R (Descriptive Statistics in R): How to produce numeric summaries for both categorical and numerical variables in R
 - **Video:** [https://youtu.be/ACWuV16tdhY](https://youtu.be/ACWuV16tdhY)
-- **Exercise #10:** [Numerical and graphical summaries](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise 10_AAU primer 2019.pdf)
+- **Exercise #10:** [Numerical and graphical summaries]https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise%2010_AAU%20primer%202019.pdf
 
 ---------------------------------------------------------------------------------
 
