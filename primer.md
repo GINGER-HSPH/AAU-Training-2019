@@ -37,39 +37,39 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic 4: Getting started with RStudio
 - **Description:** Getting started with R: Basic Arithmetic and Coding in R; How to turn R into a fancy calculator
-- **Video:** https://youtu.be/UYclmg1_KLk 
+- **Video:** [https://youtu.be/UYclmg1_KLk](https://youtu.be/UYclmg1_KLk)
 - **Exercise #4:** Using R as a calculator
 
 #### ***NOTE: Topics #5-7 are incorporated into one exercise***
 
 ### Topic 5: Importing data from Excel to R, CSV and TXT files
 - **Description:** Import Data, Copy Data from Excel (or other spreadsheets) to R: CSV & TXT Files with Free Practice Dataset
-- **Video:** https://youtu.be/qPk0YEKhqB8
+- **Video:** [https://youtu.be/qPk0YEKhqB8](https://youtu.be/qPk0YEKhqB8)
 - **Exercise #5:** Importing data into R
 
 ### Topic 6: Importing, checking, and Part 1 of working with data in R
 - **Description:** Importing Data, Checking the Imported Data and Working with Data in R	
-- **Video:** https://youtu.be/U4-RnTW5dfw
+- **Video:** [https://youtu.be/U4-RnTW5dfw](https://youtu.be/U4-RnTW5dfw)
 - **Exercise #6:** Importing, checking, and working with data in R
 
 ### Topic 7: Working with data, Part 2
 - **Description:** Working with Variables and Data in R and Produce Summaries: How to check variable names and types, extract a variable from a dataset, and produce summaries for in R	
-- **Video:** https://youtu.be/1BcGnHwUT6k
+- **Video:** [https://youtu.be/1BcGnHwUT6k](https://youtu.be/1BcGnHwUT6k)
 - **Exercise #7:** Working with data
 
 ### Topic 8: Installing packages in R
 - **Description:** How to Install Packages in R: How to Find and Install Packages for R with R Functions or RStudio Menus
-- **Video:** https://youtu.be/3RWb5U3X-T8
+- **Video:** [https://youtu.be/3RWb5U3X-T8](https://youtu.be/3RWb5U3X-T8)
 - **Exercise #8:** Installing R packages
 
 ### Topic 9: Histograms in R
 - **Description:** Histograms in R: How to Create and Modify Histograms with R	
-- **Video:** https://youtu.be/Hj1pgap4UOY
+- **Video:** [https://youtu.be/Hj1pgap4UOY](https://youtu.be/Hj1pgap4UOY)
 - **Exercise #9:** Histogram in R
 
 ### Topic 10: Numerical summaries
 - **Description:** Calculating Mean, Standard Deviation, Frequencies in R (Descriptive Statistics in R): How to produce numeric summaries for both categorical and numerical variables in R
-- **Video:** https://youtu.be/ACWuV16tdhY
+- **Video:** [https://youtu.be/ACWuV16tdhY](https://youtu.be/ACWuV16tdhY)
 - **Exercise #10:** Numerical and graphical summaries
 
 ---------------------------------------------------------------------------------
@@ -78,8 +78,8 @@ By the end of this self-directed pre-course participants should:
 
 ### Topic: Normal Distribution and Empirical Rule
 - **Description:** What is a “normal” distribution, assumptions with normally distributed data	
-- **Video:** https://youtu.be/zUnC1CV4FAc
+- **Video:** [https://youtu.be/zUnC1CV4FAc](https://youtu.be/zUnC1CV4FAc)
 
 ### Topic: Central Limit Theorem
 - **Description:** Properties of a sample mean	
-- **Video:** https://youtu.be/horm4zWU-vA
+- **Video:** [https://youtu.be/horm4zWU-vA](https://youtu.be/horm4zWU-vA)
