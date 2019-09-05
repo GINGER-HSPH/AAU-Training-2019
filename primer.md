@@ -23,22 +23,22 @@ By the end of this self-directed pre-course participants should:
 ### Topic #1: How to download R and RStudio
 - **Description:** Download and Install R and RStudio: How to Download R, Install R, Download RStudio and Install R Studio Step by Step for Beginners
 - **Video:** [https://youtu.be/cX532N_XLIs](https://youtu.be/cX532N_XLIs)
-- **Exercise #1:** [Downloading R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise%201_AAU%20primer%202019.pdf)
+- **Exercise #1:** [Downloading R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise_1_AAU_primer_2019.pdf)
 
 ### Topic 2: Writing scripts of code in R
 - **Description:** Writing Scripts in R for Reproducible Research: What is a Script in R and how to write them	
 - **Video:** [https://youtu.be/qqz_D1vzS5M](https://youtu.be/qqz_D1vzS5M)
-- **Exercise #2:** [Writing scripts of code](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise%202_AAU%20primer%202019.pdf)
+- **Exercise #2:** [Writing scripts of code](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise_2_AAU_primer_2019.pdf)
 
 ### Topic 3: Set your working directory
 - **Description:** Setting up a Working Directory in R: How to Set up Working Directories in R Using RStudio Menus and Functions in R	
 - **Video:** [https://youtu.be/OJ4WBjV5o1I](https://youtu.be/OJ4WBjV5o1I)
-- **Exercise #3:** [Setting your working directory](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise%203_AAU%20primer%202019.pdf)
+- **Exercise #3:** [Setting your working directory](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise_3_AAU_primer_2019.pdf)
 
 ### Topic 4: Getting started with RStudio
 - **Description:** Getting started with R: Basic Arithmetic and Coding in R; How to turn R into a fancy calculator
 - **Video:** [https://youtu.be/UYclmg1_KLk](https://youtu.be/UYclmg1_KLk)
-- **Exercise #4:** [Using R as a calculator](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise%204_AAU%20primer%202019.pdf)
+- **Exercise #4:** [Using R as a calculator](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise_4_AAU_primer_2019.pdf)
 
 #### ***NOTE: Topics #5-7 are incorporated into one exercise***
 
@@ -65,12 +65,12 @@ By the end of this self-directed pre-course participants should:
 ### Topic 9: Histograms in R
 - **Description:** Histograms in R: How to Create and Modify Histograms with R	
 - **Video:** [https://youtu.be/Hj1pgap4UOY](https://youtu.be/Hj1pgap4UOY)
-- **Exercise #9:** [Histogram in R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise%209_AAU%20primer%202019.pdf)
+- **Exercise #9:** [Histogram in R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise_9_AAU_primer_2019.pdf)
 
 ### Topic 10: Numerical summaries
 - **Description:** Calculating Mean, Standard Deviation, Frequencies in R (Descriptive Statistics in R): How to produce numeric summaries for both categorical and numerical variables in R
 - **Video:** [https://youtu.be/ACWuV16tdhY](https://youtu.be/ACWuV16tdhY)
-- **Exercise #10:** [Numerical and graphical summaries](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise%2010_AAU%20primer%202019.pdf)
+- **Exercise #10:** [Numerical and graphical summaries](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise_10_AAU_primer_2019.pdf)
 
 ---------------------------------------------------------------------------------
 
