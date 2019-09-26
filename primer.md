@@ -45,22 +45,22 @@ By the end of this self-directed pre-course participants should:
 ### Topic 5: Importing data from Excel to R, CSV and TXT files
 - **Description:** Import Data, Copy Data from Excel (or other spreadsheets) to R: CSV & TXT Files with Free Practice Dataset
 - **Video:** [https://youtu.be/qPk0YEKhqB8](https://youtu.be/qPk0YEKhqB8)
-- **Exercise #5:** [Importing data into R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise 5_AAU_primer_2019.pdf)
+- **Exercise #5:** [Importing data into R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise5_AAU_primer_2019.pdf)
 
 ### Topic 6: Importing, checking, and Part 1 of working with data in R
 - **Description:** Importing Data, Checking the Imported Data and Working with Data in R
 - **Video:** [https://youtu.be/U4-RnTW5dfw](https://youtu.be/U4-RnTW5dfw)
-- **Exercise #6:** [Checking data in R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise 6_AAU_primer_2019.pdf)
+- **Exercise #6:** [Checking data in R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise6_AAU_primer_2019.pdf)
 
 ### Topic 7: Working with data, Part 2
 - **Description:** Working with Variables and Data in R and Produce Summaries: How to check variable names and types, extract a variable from a dataset, and produce summaries for in R	
 - **Video:** [https://youtu.be/1BcGnHwUT6k](https://youtu.be/1BcGnHwUT6k)
-- **Exercise #7:** [Working with data in R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise 7_AAU_primer_2019.pdf)
+- **Exercise #7:** [Working with data in R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise7_AAU_primer_2019.pdf)
 
 ### Topic 8: Installing packages in R
 - **Description:** How to Install Packages in R: How to Find and Install Packages for R with R Functions or RStudio Menus
 - **Video:** [https://youtu.be/3RWb5U3X-T8](https://youtu.be/3RWb5U3X-T8)
-- **Exercise #8:** [Installing R packages](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise 8_AAU_primer_2019.pdf)
+- **Exercise #8:** [Installing R packages](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise8_AAU_primer_2019.pdf)
 
 ### Topic 9: Histograms in R
 - **Description:** Histograms in R: How to Create and Modify Histograms with R	
