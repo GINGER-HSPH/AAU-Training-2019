@@ -24,13 +24,13 @@ We have designed this website to provide you with materials that you will need p
 
 #### Below you will find links to the following:
 
-### Biostatistics and R Programming Primer (to be completed by no later than **Monday, November 11th at 11pm EAT**)
-#### [Click here to access the pre-course primer](https://ginger-hsph.github.io/AAU-Training-2019/primer){:target="_blank"}
+#### Biostatistics and R Programming Primer (to be completed by no later than **Monday, November 11th at 11pm EAT**)
+* [Click here to access the pre-course primer](https://ginger-hsph.github.io/AAU-Training-2019/primer){:target="_blank"}
 
-### Course materials, including slides and exercises, as well as solutions to the exercises and R scripts which will be uploaded either daily or at the end of the course
-#### [Click here to access the course materials](https://ginger-hsph.github.io/AAU-Training-2019/coursematerials){:target="_blank"}
+#### Course materials, including slides and exercises, as well as solutions to the exercises and R scripts which will be uploaded either daily or at the end of the course
+* [Click here to access the course materials](https://ginger-hsph.github.io/AAU-Training-2019/coursematerials){:target="_blank"}
 
-### Course datasets and data dictionaries
+#### Course datasets and data dictionaries
 #### [Click here to access the course datasets](https://ginger-hsph.github.io/AAU-Training-2019/datasets){:target="_blank"}
 
 ----------------------------------------------------------------------------------------------------------------------------
