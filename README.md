@@ -32,13 +32,3 @@ We have designed this website to provide you with materials that you will need p
 
 * Course datasets and data dictionaries
   * [Click here to access the course datasets](https://ginger-hsph.github.io/AAU-Training-2019/datasets){:target="_blank"}
-
-----------------------------------------------------------------------------------------------------------------------------
-
-
-### - [Click here to access the pre-course primer](https://ginger-hsph.github.io/AAU-Training-2019/primer){:target="_blank"}
-
-### - [Click here to access the course materials](https://ginger-hsph.github.io/AAU-Training-2019/coursematerials){:target="_blank"}
-
-### - [Click here to access the course datasets](https://ginger-hsph.github.io/AAU-Training-2019/datasets){:target="_blank"}
-
