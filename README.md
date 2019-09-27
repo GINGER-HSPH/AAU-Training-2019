@@ -19,7 +19,7 @@ Neuropsychiatric genetics research is multi-disciplinary, spanning the fields of
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-We have designed this website to provide you with materials that you will need prior to and during the course. Please note that some sections on linked pages may be blank as materials will be updated as the course progresses. 
+We have designed this website to provide you with materials that you will need prior to and during the course. Please note that some sections on linked pages, such as the course materials page, may be blank as materials will be updated as the course progresses. 
 
 
 #### Below you will find links to the following:
