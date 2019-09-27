@@ -24,7 +24,7 @@ We have designed this website to provide you with materials that you will need p
 
 #### Below you will find links to the following:
 
-- Biostatistics and R Programming Primer (to be completed BY DATE)
+- Biostatistics and R Programming Primer (to be completed by no later than **Monday, November 11th at 11pm EAT**)
 - Course materials, which includes slides and exercises, as well as solutions to the exercises and R scripts which will be uploaded either daily or the end of the course
 - Course datasets and data dictionaries
 
