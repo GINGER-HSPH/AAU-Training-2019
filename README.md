@@ -22,13 +22,13 @@ Neuropsychiatric genetics research is multi-disciplinary, spanning the fields of
 We have designed this website to provide you with materials that you will need prior to and during the course. Please note that some sections on linked pages, such as the course materials page, may be blank as materials will be updated as the course progresses. 
 
 
-#### Below you will find links to the following:
+#### Below you will find links to the following course pages:
 
-* Biostatistics and R Programming Primer (to be completed by no later than **Monday, November 11th at 11pm EAT**)
+* Biostatistics and R Programming Primer - to be completed by no later than **Monday, November 11th at 11pm EAT**
   * [Click here to access the pre-course primer](https://ginger-hsph.github.io/AAU-Training-2019/primer){:target="_blank"}
 
-* Course materials, including slides and exercises, as well as solutions to the exercises and R scripts which will be uploaded either daily or at the end of the course
+* Course Materials - including slides and exercises, as well as solutions to the exercises and R scripts which will be uploaded either daily or at the end of the course
   * [Click here to access the course materials](https://ginger-hsph.github.io/AAU-Training-2019/coursematerials){:target="_blank"}
 
-* Course datasets and data dictionaries
+* Course Datasets and Data Dictionaries
   * [Click here to access the course datasets](https://ginger-hsph.github.io/AAU-Training-2019/datasets){:target="_blank"}
