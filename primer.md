@@ -10,11 +10,16 @@ By the end of this self-directed pre-course participants should:
 -	Be able to produce summary statistics and simple figures
 
 ### Instructions:
-*	**Each topic corresponds to an instructional video on YouTube. Click on each link provided and watch each video** (they are short at ~5 mins each) and follow along. You can enable closed captions at the bottom of the video, if you would like.
-*	**Complete** the corresponding exercise. Be sure to save and annotate your R program!
+-	**Each topic corresponds to an instructional video on YouTube. Click on each link provided and watch each video** (they are short at ~5 mins each) and follow along. You can enable closed captions at the bottom of the video, if you would like.
+
+-	**Complete** the corresponding exercise. Be sure to save and annotate your R program!
+
 - **Download** the Rosmap dataset and corresponding files. This is the dataset that we will be using throughout the primer.
+
 -	**Follow the topics in order**, as they build on each other.
+
 -	**Upload** your final R program with answers to all the exercises **in a single document** (not multiple programs). Please name your file as: _**lastname_firstname_R program_date**_ 
+
 - **Email** your final document to [aau.hsphtraining@gmail.com]. 
 
 ## Your final submission should be received by no later than Monday, November 11th at 11pm EAT.
