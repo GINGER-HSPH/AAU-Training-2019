@@ -20,7 +20,7 @@ By the end of this self-directed pre-course participants should:
 
 -	**Upload** your final R program with answers to all the exercises **in a single document** (not multiple programs). Please name your file as: _**lastname_firstname_R program_date**_ 
 
-- **Email** your final document to [aau.hsphtraining@gmail.com]. 
+- **Email** your final document to [aau.hsphtraining@gmail.com](aau.hsphtraining@gmail.com). 
 
 ## Your final submission should be received by no later than Monday 11 November at 11pm EAT.
 
