@@ -12,7 +12,7 @@
 
 ### Day 3 - Wednesday, November 20
 - **Slides:**
-- **Exercises:**w
+- **Exercises:**
 - **Solutions:** 
 
 ### Day 4 - Thursday, November 21
