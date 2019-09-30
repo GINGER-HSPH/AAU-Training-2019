@@ -22,7 +22,7 @@ By the end of this self-directed pre-course participants should:
 
 - **Email** your final document to [aau.hsphtraining@gmail.com]. 
 
-## Your final submission should be received by no later than Monday, November 11th at 11pm EAT.
+## Your final submission should be received by no later than Monday 11 November at 11pm EAT.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
