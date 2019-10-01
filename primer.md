@@ -14,7 +14,7 @@ By the end of this self-directed pre-course participants should:
 
 -	**Complete** the corresponding exercise. Be sure to save and annotate your R program!
 
-- **Download** the [Rosmap dataset](RM_xsect.csv), [corresponding files]. This is the dataset that we will be using throughout the primer.
+- **Download** the [Rosmap dataset](https://ginger-hsph.github.io/AAU-Training-2019/datasets/RM_xsect.csv), [data dictionary](https://ginger-hsph.github.io/AAU-Training-2019/datasets/ROSMAP_data_dictionary_xlsx), and [documentation](https://ginger-hsph.github.io/AAU-Training-2019/datasets/ROSMAP_documentation.pdf). This is the dataset that we will be using throughout the primer.
 
 -	**Follow the topics in order**, as they build on each other.
 
