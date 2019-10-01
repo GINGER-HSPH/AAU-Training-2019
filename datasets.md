@@ -1,6 +1,6 @@
 * [Click here to download the ROSMAP dataset](https://ginger-hsph.github.io/AAU-Training-2019/datasets/RM_xsect.csv)
 
-* [Click here to download the ROSMAP data dictionary](https://ginger-hsph.github.io/AAU-Training-2019/datasets/ROSMAP_data_dictionary_xlsx)
+* [Click here to download the ROSMAP data dictionary](https://ginger-hsph.github.io/AAU-Training-2019/datasets/ROSMAP_data_dictionary.xlsx)
 
 * [Click here to download the ROSMAP documentation](https://ginger-hsph.github.io/AAU-Training-2019/datasets/ROSMAP_documentation.pdf)
 
