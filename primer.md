@@ -61,7 +61,7 @@ By the end of this self-directed pre-course participants should:
 ### Topic 7: Working with data, Part 2
 - **Description:** Working with Variables and Data in R and Produce Summaries: How to check variable names and types, extract a variable from a dataset, and produce summaries for in R	
 - **Video:** [https://youtu.be/1BcGnHwUT6k](https://youtu.be/1BcGnHwUT6k)
-- **Exercise #7:** [Working with data in R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise_7_AAU_primer_2019_v2.pdf)
+- **Exercise #7:** [Working with data in R](https://ginger-hsph.github.io/AAU-Training-2019/exercises/Exercise_7_AAU_2019_v2.pdf)
 
 ### Topic 8: Installing packages in R
 - **Description:** How to Install Packages in R: How to Find and Install Packages for R with R Functions or RStudio Menus
