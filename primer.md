@@ -1,15 +1,17 @@
 # Interactive Biostatistics Workshop: Intro to R Programming & Biostatistics Pre-Assignment
 
 ### Overview: 
-In order to make the most out of our time together in November, we are asking participants to complete a pre-course to familiarize themselves with R programming language, the RStudio environment and basic biostatistical concepts.  
+In order to make the most out of our time together in November, we are asking participants to complete a pre-assignment to gain familiarity with the R programming language, the RStudio environment, and basic biostatistical concepts.  
 
-### Course Objectives: 	
-By the end of this self-directed pre-course participants should: 
+### Objectives: 	
+By the end of this self-directed pre-assignment, participants should: 
 -	Be familiar with the RStudio environment
 -	Be able to read in data and interact with it
 -	Be able to produce summary statistics and simple figures
 
 ### Instructions:
+- **Important: Before you can install software and begin this pre-assignment, please ensure your computer has an operating system that is either Windows 7 or higher (PC), or macOS 10.12 or higher (Mac).**
+
 -	**Each topic corresponds to an instructional video on YouTube. Click on each link provided and watch each video** (they are short at ~5 mins each) and follow along. You can enable closed captions at the bottom of the video, if you would like.
 
 -	**Complete** the corresponding exercise. Be sure to save and annotate your R program!
