@@ -1,7 +1,7 @@
 # Welcome to the Homepage for the Interactive Biostatistics Workshop
 
 
-**Addis Ababa University, Addis Ababa, Ethiopia**
+**Addis Ababa Universit - Addis Ababa, Ethiopia**
 
 18-22 November 2019
 
